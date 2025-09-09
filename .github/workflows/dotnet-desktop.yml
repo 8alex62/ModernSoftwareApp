@@ -39,7 +39,7 @@ jobs:
         password: ${{ secrets.GHCR_TOKEN }}
 
     - name: Build Docker image
-      run: docker build -t ghcr.io/8axia62/modernsoftwareapp:latest .
+      run: docker build -t ghcr.io/8alex62/modernsoftwareapp:latest .
 
     - name: Push Docker image
-      run: docker push ghcr.io/8axia62/modernsoftwareapp:latest
+      run: docker push ghcr.io/8alex62/modernsoftwareapp:latest

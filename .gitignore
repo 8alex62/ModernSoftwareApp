@@ -1,0 +1,45 @@
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Bb]enchmarkDotNet.Artifacts/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+*.dll
+*.exe
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Test results (xUnit, NUnit, MSTest, etc.)
+*.trx
+*.coverage
+*.coveragexml
+*.log
+*.testlog
+TestResults/
+
+# DotCover / Code Coverage
+*.dotCover
+
+# Others
+*.DS_Store
+Thumbs.db

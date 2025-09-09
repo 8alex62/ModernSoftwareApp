@@ -1,0 +1,2 @@
+﻿C:\Users\alexi\source\repos\ModernSoftwareApp\ModernSoftwareApp\Calculator.cs
+C:\Users\alexi\source\repos\ModernSoftwareApp\ModernSoftwareApp\Program.cs

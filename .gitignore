@@ -43,3 +43,6 @@ TestResults/
 # Others
 *.DS_Store
 Thumbs.db
+
+# SonarQube files
+.sonarqube/
